@@ -63,7 +63,7 @@ let programming = {
     languages: ["Javascript", "Python", "PHP"],
     isChallenging: true,
     isRewarding: true,
-    difficulty: 8,
+    difficulty: 5,
     jokes: "http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke"
 };
 
