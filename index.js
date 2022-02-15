@@ -60,7 +60,7 @@ for(let i=0; i<9; i++){
 //--------------------------
 //Part 2
 let programming = {
-    languages: ["Javascript", "Python", "Ruby"],
+    languages: ["Javascript", "Python", "PHP"],
     isChallenging: true,
     isRewarding: true,
     difficulty: 8,
