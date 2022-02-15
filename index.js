@@ -62,7 +62,7 @@ const vehicle = {nama: 'Car', warna: 'Red'};
 ({ nama, warna}= vehicle);
 
 // No. 3
-let dog = {nama: "Goldie", type: "Golden", color: "Brown"};
+let dog = {nama: "Choco", type: "Pomeranian", color: "Brown"};
 
 // jadi kita memasukan data dari objek ke dalam variabel yang baru dengan menggunakan dot notation
 
@@ -70,8 +70,8 @@ let nama = dog.nama;
 let type = dog.type;
 let color = dog.color;
 
-console.log(nama);  // output : Goldie
-console.log(type);  // output : Golden
+console.log(nama);  // output : Choco
+console.log(type);  // output : Pomeranian
 console.log(color); // output : Brown
 
 //#3-------------------------------------------------------------------------
