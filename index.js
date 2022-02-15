@@ -17,7 +17,7 @@ console.log(ucapan); // output : to
 
 // No. 2
 // Untuk contoh yang kedua, output yang ditampilkan adalah sama tetapi dengan cara yang berbeda
-let  [salam, word] = ["Welcome", "to", "Billy", "House"];
+let  [salam, word] = ["Welcome", "to", "Andrey", "House"];
 
 console.log(salam);  // output : Welcome
 console.log(ucapan); // output : to
