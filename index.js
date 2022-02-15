@@ -46,12 +46,12 @@ console.log(ucapan); // output : Billy
 // No. 1
 
 // seperti pada contoh dibawah ini kita bisa melakukan destructuring terhadap objek
-let vehicle = {nama: 'Car', warna: 'Red'};
+let vehicle = {nama: 'Car', warna: 'Blue'};
 
 let {nama, warna} = vehicle;
 
 console.log(nama);  // output : Car
-console.log(warna); // output : Red
+console.log(warna); // output : Blue
 
 // NO. 2
 
