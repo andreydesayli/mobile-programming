@@ -28,7 +28,7 @@ console.log(people);
 console.log(" ");
 
 // number 6
-people.push("Billy");
+people.push("Andrey");
 console.log(people);
 console.log(" ");
 
