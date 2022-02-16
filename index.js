@@ -83,7 +83,7 @@ user1.bekerja();
   
   }
   
-  let user = new Pelajar('John', 17, 'Unklab');
+  let user = new Pelajar('Elsha', 20, 'Unklab');
   
   console.log(user.nama);
   console.log(user.umur);
