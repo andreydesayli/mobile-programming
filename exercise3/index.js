@@ -30,7 +30,7 @@ let student = {       // deklarasi objek
 };
 
 function greetings(user) {  // deklarasi function
-    console.log (`Welcome, ${user}`);
+    console.log (`Hy Welcome to the Open House in Snowdrop, ${user}`);
 }
 // meng-export seluruh code secara bersamaan
 export {nama, student, greetings};
