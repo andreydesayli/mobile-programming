@@ -3,7 +3,7 @@
 function helloWorld() {
   return new Promise((resolve) => {
     setTimeout(() => {
-      resolve("Hello World!");
+      resolve("Annyeong!");
     }, 2000);
   });
 }
