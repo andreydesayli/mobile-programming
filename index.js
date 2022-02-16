@@ -29,6 +29,7 @@ console.log(" ");
 
 // number 6
 people.push("Andrey");
+people.push("Suvin");
 console.log(people);
 console.log(" ");
 
