@@ -62,7 +62,7 @@ const vehicle = {nama: 'Car', warna: 'Red'};
 ({ nama, warna}= vehicle);
 
 // No. 3
-let dog = {nama: "Choco", type: "Pomeranian", color: "Brown"};
+let dog = {nama: "Choco", type: "Pomeranian", color: "Black"};
 
 // jadi kita memasukan data dari objek ke dalam variabel yang baru dengan menggunakan dot notation
 
@@ -72,7 +72,7 @@ let color = dog.color;
 
 console.log(nama);  // output : Choco
 console.log(type);  // output : Pomeranian
-console.log(color); // output : Brown
+console.log(color); // output : Black
 
 //#3-------------------------------------------------------------------------
 // DESTRUCTURING ARRAY DENGAN DEFAULT VALUE
