@@ -28,7 +28,7 @@ console.log(people);
 console.log(" ");
 
 // number 6
-people.push("Suvin");
+people.push("Suvin and Bily");
 console.log(people);
 console.log(" ");
 
