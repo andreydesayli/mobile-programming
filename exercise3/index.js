@@ -6,7 +6,7 @@ tersebut dapat kita export dan import berulang kali
 // Export & Import
 // --------------------------
 // Export
-export let name = "John Doe"; //export menggunakan kata kunci 'export'
+export let name = "Hanbin"; //export menggunakan kata kunci 'export'
 
 // Export pada Object
 export let mhs = {
