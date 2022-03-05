@@ -1,4 +1,5 @@
 import React from 'react';
+// Import Hello.js as the function component to show the Group member's names.
 import Hello from './Hello';
 import {View, Text} from 'react-native';
 
