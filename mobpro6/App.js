@@ -2,13 +2,16 @@
 import Hello from './Hello';
 import {View, Text} from 'react-native';
 import React from 'react';
+// Import HomeStyle.js
+import styles from './HomeStyle';
 
 const App = () => {
   return (
     <View>
-      <Text style={{fontSize: 60}}>Group 1</Text>
-      <Text style={{fontSize: 40}}>Exercise 6</Text>
-      <Hello />
+      <Text style={styles.text1}>Group 1</Text>
+      <Text style={styles.text2}>Exercise 6</Text>
+      <View style={styles.borderBox}></View>
+      <Hello/>
       <Chat props={'This is props'} />
     </View>
   );
@@ -19,7 +22,7 @@ const App = () => {
 export function Chat({props}) {
   return (
     <View>
-      <Text style={{fontSize: 20, color: 'purple', alignSelf: 'center'}}>
+      <Text style={{fontSize: 20, color: 'purple', alignSelf: 'center'} /*Contoh styling secara langsung*/}>
         {props}
       </Text>
     </View>
