@@ -11,7 +11,7 @@ const App = () => {
       <Text style={styles.text1}>Group 1</Text>
       <Text style={styles.text2}>Exercise 6</Text>
       <View style={styles.borderBox}></View>
-      <Hello/>
+      <View style={styles.text3}><Hello/></View>
       <Chat props={'This is props'} />
     </View>
   );
