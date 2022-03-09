@@ -28,6 +28,14 @@ const styles = StyleSheet.create({
         textAlign: 'center',
 
     },
+    text3: {
+        fontSize: 50,
+        fontWeight : '100',
+        fontStyle: 'italic',
+        fontFamily: 'Roboto',
+        color: 'red',
+        textAlign: 'center',
+    },
 
     borderBox: {
         height: '10%',
